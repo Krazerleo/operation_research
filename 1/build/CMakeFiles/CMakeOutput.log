@@ -1,0 +1,43 @@
+The system is: Windows - 10.0.19043 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is Clang, found in "C:/Users/Leonid_Krazer/Desktop/OperationResearch/labs/1/build/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.obj"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Leonid_Krazer/Desktop/OperationResearch/labs/1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_f2835 && [1/2] Building C object CMakeFiles\cmTC_f2835.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_f2835.exe
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is Clang, found in "C:/Users/Leonid_Krazer/Desktop/OperationResearch/labs/1/build/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.obj"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Leonid_Krazer/Desktop/OperationResearch/labs/1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~1/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_e2d76 && [1/2] Building CXX object CMakeFiles\cmTC_e2d76.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_e2d76.exe
+
+
+
